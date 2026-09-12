@@ -31,7 +31,7 @@ PRODUTOS = [
 
 FORMA_PAGTO = ["cartão de crédito", "boleto", "pix", "dinheiro"]
 
-GENERO_CLIENTES = ["male", "famale"]
+GENERO_CLIENTES = ["male", "female"]
 
 compras = []
 

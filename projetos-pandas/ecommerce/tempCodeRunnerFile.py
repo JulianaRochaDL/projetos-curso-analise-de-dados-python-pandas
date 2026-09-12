@@ -1,1 +1,0 @@
-["cartão de crédito", "boleto", "pix", "dinheiro"]
