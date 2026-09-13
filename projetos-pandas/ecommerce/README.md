@@ -48,8 +48,7 @@ Projeto desenvolvido durante meus estudos de **Análise de Dados com Python e Pa
 ### 1. Clone o repositório
 
 No terminal, execute:
-```bash
-git clone https://github.com/JulianaRochaDL/projetos-curso-analise-de-dados-python-pandas.git
+```bash git clone https://github.com/JulianaRochaDL/projetos-curso-analise-de-dados-python-pandas.git
 
 ### 2. Acesse a pasta do projeto
 
