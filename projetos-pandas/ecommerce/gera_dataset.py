@@ -51,7 +51,7 @@ for _ in range(2000):
     compras.append({
         "data": hora_compra,
         "id_compra": 0,
-        "loja": loja["cidade"],
+        "loja": f'{loja["cidade"]}/{loja["estado"]}',
         "vendedor": vendedor,
         "produto": produto["nome"],
         "cliente_nome": nome_cliente,
