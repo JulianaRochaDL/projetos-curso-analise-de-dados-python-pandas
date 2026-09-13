@@ -14,5 +14,5 @@ Repositório destinado aos projetos desenvolvidos durante meus estudos de **Aná
 - **Projetos NumPy** — aplicações práticas utilizando NumPy e Python.
 - **Projetos Pandas** — manipulação e análise de dados com Pandas.
 
-Teste de Git
+
 
